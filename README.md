@@ -1,7 +1,7 @@
-### <div align="center">💻 I'm Pablo, a full-time back-end developer 🚀</div>  
+### <div align="center">💻 I'm Pablo, a back-end developer 🚀</div>  
   
 
-- 🌱 I’m currently working with MuleSoft and learning Java, Spring and Python  
+- 🌱 I’m currently working as MuleSoft Developer and learning Java, Spring and Python  
   
 
 <br/>  
