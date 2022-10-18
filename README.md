@@ -1,7 +1,9 @@
 ### <div align="center">💻 I'm Pablo, a back-end developer 🚀</div>  
   
 
-- 🌱 I’m currently working as MuleSoft Developer and learning Java, Spring and Python  
+- 🔭 I’m currently working on [Accenture](https://www.accenture.com) as MuleSoft Developer
+- 🌱 I’m currently learning MuleSoft, Java, Spring and Python    
+
   
 
 <br/>  
