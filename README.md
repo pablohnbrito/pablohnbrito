@@ -35,7 +35,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mulesoft.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appnovation.com%2Fpartners%2Fmulesoft&psig=AOvVaw0ngr2NZWVDI1yi-l4acre_&ust=1666269534939000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMi32e-n7PoCFQAAAAAdAAAAABAE" alt="MuleSoft" height="50" /></a>  
+<a href="https://www.mulesoft.com/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/MuleSoft/MuleSoft-Logo.wine.svg" alt="MuleSoft" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
