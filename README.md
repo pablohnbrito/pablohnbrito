@@ -71,7 +71,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="
-https://github-readme-stats.vercel.app/api/top-langs/?username=pablohnbrito&layout=compact&langs_count=7&theme=github_dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohnbrito&layout=compact&langs_count=7&theme=github_dark" align="center" /></div>  
 
 <br/>  
