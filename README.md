@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Accenture](https://www.accenture.com) as MuleSoft Developer
 - 🌱 I’m currently learning MuleSoft, Java, Spring and Python    
-
+- 👨‍💻 Computer Science undergraduate student (4/8) and Bachelor of Business Administration
   
 
 <br/>  
